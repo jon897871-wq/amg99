@@ -8,7 +8,7 @@ const App: React.FC = () => {
     <div className="fixed inset-0 w-screen h-screen bg-black overflow-hidden">
         <Player
           component={AgentVideo}
-          durationInFrames={1080} 
+          durationInFrames={1450} 
           compositionWidth={1080}
           compositionHeight={1920}
           fps={30}
